@@ -3,7 +3,7 @@
     "name":"Abdur-Rahman Syed",
     "description":"I’m a second year computer science student seeking an opportunity in software development. Currently pursuing a certification as an AWS cloud practitioner.",
     "image":"ZUBS.png",
-    "bio":" .",
+    "bio":"Growing up, I was always fond of anything related to technology, from phones and video games to cars. My interest in computer science was piqued in 10th grade after being introduced to the video game ''WatchDogs''. The game required players to hack into cars, surveillance cameras, and people's phones to complete missions. Soon after realizing my passion for computer science, I joined my school's computer science club, where we worked on projects and hosted weekly gaming tournaments. I took my first computer science class in my senior year of high school. I decided I wanted to pursue a bachelor's degree in computer science and hope to get a master's degree in software engineering.",
     "contactmessage":"",
     "email": "asyed5351@gmail.com",
     "phone": "(914)-817-3903",
@@ -15,8 +15,8 @@
       "state":"New York",
       "zip": "10801"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"",
     "social":[
       
       {
@@ -55,32 +55,32 @@
         "company":"CellCashr",
         "title":"Project Manager Intern",
         "years":"June 2021 - August 2021",
-        "description":"Established online processing of shipments in response to the pandemic and new guidelines for social distancing to limit in person contact.Served as a liaison between developers and client to ensure website was created as per the client's requirements. Implemented new ideas, such as customer support and comment section, to increase customer satisfaction and make website more user friendly.Collaborated on developing and deploying a website as a solution to the pandemic that was impacting sales and helped increase the yearly by revenue 11%.Formed  team of individuals to work together on a startup business and generate revenue"
+        "description":"I Established an online processing of shipments in response to the pandemic and new guidelines for social distancing to limit in person contact. Served as a liaison between developers and client to ensure website was created as per the client's requirements. Implemented new ideas, such as customer support and comment section, to increase customer satisfaction and make website more user friendly.Collaborated on developing and deploying a website as a solution to the pandemic that was impacting sales and helped increase the yearly by revenue 11%.Formed  team of individuals to work together on a startup business and generate revenue"
       },
       {
         "company":"Walgreens Pharmacy",
         "title":"Pharmacy Technician",
         "years":"January 2021 - Present",
-        "description":"Calculate dosages, dispense medications, prepare labels, and fill approximately 175+ prescriptions per day.Directly assist  45 customers per day, handling all inquired with a 96% customer satisfaction score.Manage insurance claims and work with insurance companies to reduce cost of scripts and expedite administration to    patients by 13% .Use IntercomPlus software daily to monitor inventory and maintain stock levels   "
+        "description":" I Calculate dosages, dispense medications, prepare labels, and fill approximately 175+ prescriptions per day. I Directly assist 45 customers per day, handling all inquiries with a 96% customer satisfaction score. Manage insurance claims and work with insurance companies to reduce cost of scripts and expedite administration to patients by 13% .Use IntercomPlus software daily to monitor inventory and maintain stock levels   "
       },
       {
         "company":"A&S Tutoring",
         "title":"Co-founder, Instructor",
         "years":"November 2016 - Present",
-        "description":".Co-founded a private tutoring service of about 33  students, designed to help students reach academic success.· Mange 12 tutors as well as construct weekly lesson plans and recruit students. Coordinate with administration and students to address various concerns and suggestions"
+        "description":" I Co-founded a private tutoring service of about 33 students, designed to help students reach academic success.· Mange 12 tutors as well as construct weekly lesson plans and recruit students. Coordinate with administration and students to address various concerns and suggestions"
       }
     ],
     "skills":[
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
       {
         "name":"Python",
         "level":"70%"
       },
       {
         "name":"Java",
-        "level":"70%"
-      },
-      {
-        "name":"JavaScript",
         "level":"60%"
       },
       {
