@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Abdur-Rahman Syed",
-    "description":"I’m a second year computer science student seeking an opportunity in software development. Currently pursuing a certification as an AWS cloud practitioner.",
+    "description":"I’m a senior computer science student seeking an opportunity in software development. Currently pursuing a certification as an AWS cloud practitioner",
     "image":"ZUBS.png",
     "bio":"Growing up, I was always fond of anything related to technology, from phones and video games to cars. My interest in computer science was piqued in 10th grade after being introduced to the video game ''WatchDogs''. The game required players to hack into cars, surveillance cameras, and people's phones to complete missions. Soon after realizing my passion for computer science, I joined my school's computer science club, where we worked on projects and hosted weekly gaming tournaments. I took my first computer science class in my senior year of high school. I decided I wanted to pursue a bachelor's degree in computer science and hope to get a master's degree in software engineering.",
     "contactmessage":"",
@@ -11,7 +11,7 @@
     "project":"https://github.com/asyed5351",
     "address":{
       "street":"28 Mount Joy Place",
-      "city":"New Rochelle ,",
+      "city":"New Rochelle",
       "state":"New York",
       "zip": "10801"
     },
@@ -21,7 +21,7 @@
       
       {
         "name":"linkedin",
-        "url":"www.linkedin.com/in/abdurrhman-syed",
+        "url":"https://www.linkedin.com/in/abdurrhman-syed/",
         "className":"fa fa-linkedin"
       },
       {
@@ -42,7 +42,7 @@
       {
         "school":"Macaulay Honors College at Lehman College",
         "degree":"Bachelors of Science in Computer Science",
-        "graduated":"May 2024"
+        "graduated":"May 2023"
        
       },
       {
@@ -66,7 +66,7 @@
       {
         "company":"A&S Tutoring",
         "title":"Co-founder, Instructor",
-        "years":"November 2016 - Present",
+        "years":"November 2016 - Feburary 2022",
         "description":" I Co-founded a private tutoring service of about 33 students, designed to help students reach academic success.· Mange 12 tutors as well as construct weekly lesson plans and recruit students. Coordinate with administration and students to address various concerns and suggestions"
       }
     ],
